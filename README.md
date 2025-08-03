@@ -463,7 +463,258 @@ Adobe软件的最佳替代品 [原文在这里](https://linux.cn/article-8928-1.
 <a href="https://github.com/wurining" title="Rining Wu"><img src="https://avatars.githubusercontent.com/u/26198634?v=4" width="42;" alt="Rining Wu"/></a>
 <a href="https://github.com/rayyee" title="Ray Yee"><img src="https://avatars.githubusercontent.com/u/685149?v=4" width="42;" alt="Ray Yee"/></a>
 <a href="https://github.com/fishandsheep" title="QinShower"><img src="https://avatars.githubusercontent.com/u/43347407?v=4" width="42;" alt="QinShower"/></a>
-<a href="https://github.com/Zhengqbbb" title="Q.Ben Zheng"><img src="https://avatars.githubusercontent.com/u/40693636?v=4" width="42;" alt="Q.Ben Zheng"/></a><!--AUTO_GENERATED_PLEASE_DONT_DELETE_IT-END-->
+<a href="https://github.com/Zhengqbbb" title="Q.Ben Zheng"><img src="https://avatars.githubusercontent.com/u/40693636?v=4" width="42;" alt="Q.Ben Zheng"/></a><!--default.cpp:1:1: error: expected unqualified-id
+default.cpp:1:1: error: unknown type name 'pghoard'
+^
+default.cpp:4:61: error: unknown type name 'did'
+default.cpp:2:1: error: invalid '==' at end of declaration; did you mean '='?
+                                                            ^
+default.cpp:4:68: error: expected ';' after top level declarator
+default.cpp:2:1: error: invalid '==' at end of declaration; did you mean '='?
+                                                                   ^
+                                                                   ;
+default.cpp:30:1: error: expected unqualified-id
+default.cpp:211:3: error: invalid preprocessing directive
+^
+default.cpp:31:3: error: invalid preprocessing directive
+# Vietnamese translations for data package.
+  ^
+default.cpp:34:3: error: invalid preprocessing directive
+# Copyright (C) 2009 THE data'S COPYRIGHT HOLDER
+  ^
+default.cpp:37:3: error: invalid preprocessing directive
+# This file is distributed under the same license as the data package.
+  ^
+default.cpp:40:3: error: invalid preprocessing directive
+# Lê Quốc Tuấn <mr.lequoctuan@gmail.com>, 2009.
+  ^
+default.cpp:43:2: error: invalid preprocessing directive
+#: ../bus/ibus.desktop.in.h:1
+ ^
+default.cpp:46:2: error: invalid preprocessing directive
+#: ../bus/ibus.desktop.in.h:2
+ ^
+default.cpp:49:2: error: invalid preprocessing directive
+#, fuzzy
+ ^
+default.cpp:52:2: error: invalid preprocessing directive
+#: ../bus/ibus.desktop.in.h:3
+ ^
+default.cpp:55:2: error: invalid preprocessing directive
+#, fuzzy
+ ^
+default.cpp:58:2: error: invalid preprocessing directive
+#: ../ibus/_config.py.in:39
+ ^
+default.cpp:65:3: error: invalid preprocessing directive
+# 四、神经网络和深度学习
+  ^
+default.cpp:68:36: error: non-ASCII characters are not allowed outside of literals and identifiers
+> 深度神经网络的工作地点、原因和方式。从大脑中获取灵感。卷积神经网络（CNN）和循环神经网络（RNN）。真实世界中的应用。
+                        ^~
+default.cpp:68:54: error: non-ASCII characters are not allowed outside of literals and identifiers
+> 深度神经网络的工作地点、原因和方式。从大脑中获取灵感。卷积神经网络（CNN）和循环神经网络（RNN）。真实世界中的应用。
+                                    ^~
+default.cpp:68:81: error: non-ASCII characters are not allowed outside of literals and identifiers
+> 深度神经网络的工作地点、原因和方式。从大脑中获取灵感。卷积神经网络（CNN）和循环神经网络（RNN）。真实世界中的应用。
+                                                      ^~
+default.cpp:68:141: error: non-ASCII characters are not allowed outside of literals and identifiers
+> 深度神经网络的工作地点、原因和方式。从大脑中获取灵感。卷积神经网络（CNN）和循环神经网络（RNN）。真实世界中的应用。
+                                                                                                ^~
+fatal error: too many errors emitted, stopping now [-ferror-limit=]
+20 errors default.cpp:1:1: error: unknown type name 'pghoard'
+pghoard DEV
+^
+default.cpp:2:1: error: invalid '==' at end of declaration; did you mean '='?
+===========
+^~
+=
+default.cpp:2:3: error: expected expression
+===========
+  ^
+default.cpp:2:5: error: expected expression
+===========
+    ^
+default.cpp:2:7: error: expected expression
+===========
+      ^
+default.cpp:2:9: error: expected expression
+===========
+        ^
+default.cpp:2:11: error: expected expression
+===========
+          ^
+default.cpp:4:3: error: use of undeclared identifier 'Support'
+* Support for PostgreSQL version 14
+  ^
+default.cpp:48:61: error: expected ';' after top level declarator
+  always stored in a folder named after the site, optionally prefixed by an
+                                                            ^
+                                                            ;
+default.cpp:211:3: error: invalid preprocessing directive
+# Vietnamese translations for data package.
+  ^
+default.cpp:212:3: error: invalid preprocessing directive
+# Copyright (C) 2009 THE data'S COPYRIGHT HOLDER
+  ^
+default.cpp:213:3: error: invalid preprocessing directive
+# This file is distributed under the same license as the data package.
+  ^
+default.cpp:214:3: error: invalid preprocessing directive
+# Lê Quốc Tuấn <mr.lequoctuan@gmail.com>, 2009.
+  ^
+default.cpp:230:2: error: invalid preprocessing directive
+#: ../bus/ibus.desktop.in.h:1
+ ^
+default.cpp:234:2: error: invalid preprocessing directive
+#: ../bus/ibus.desktop.in.h:2
+ ^
+default.cpp:235:2: error: invalid preprocessing directive
+#, fuzzy
+ ^
+default.cpp:239:2: error: invalid preprocessing directive
+#: ../bus/ibus.desktop.in.h:3
+ ^
+default.cpp:240:2: error: invalid preprocessing directive
+#, fuzzy
+ ^
+default.cpp:244:2: error: invalid preprocessing directive
+#: ../ibus/_config.py.in:39
+ ^
+fatal error: too many errors emitted, stopping now [-ferror-limit=]
+20 errors generated.default.cpp:1:1: error: expected unqualified-id
+<iframe width="360" height="203" src="https://www.youtube.com/embed/fh3X91J7iv0" title="Oops We Dropped Something | October &#39;24 Pixel Drop" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+^
+default.cpp:2:3: error: invalid preprocessing directive
+# 四、神经网络和深度学习
+  ^
+default.cpp:12:36: error: non-ASCII characters are not allowed outside of literals and identifiers
+> 深度神经网络的工作地点、原因和方式。从大脑中获取灵感。卷积神经网络（CNN）和循环神经网络（RNN）。真实世界中的应用。
+                        ^~
+default.cpp:12:54: error: non-ASCII characters are not allowed outside of literals and identifiers
+> 深度神经网络的工作地点、原因和方式。从大脑中获取灵感。卷积神经网络（CNN）和循环神经网络（RNN）。真实世界中的应用。
+                                    ^~
+default.cpp:12:81: error: non-ASCII characters are not allowed outside of literals and identifiers
+> 深度神经网络的工作地点、原因和方式。从大脑中获取灵感。卷积神经网络（CNN）和循环神经网络（RNN）。真实世界中的应用。
+                                                      ^~
+default.cpp:12:141: error: non-ASCII characters are not allowed outside of literals and identifiers
+> 深度神经网络的工作地点、原因和方式。从大脑中获取灵感。卷积神经网络（CNN）和循环神经网络（RNN）。真实世界中的应用。
+                                                                                                ^~
+default.cpp:12:168: error: non-ASCII characters are not allowed outside of literals and identifiers
+> 深度神经网络的工作地点、原因和方式。从大脑中获取灵感。卷积神经网络（CNN）和循环神经网络（RNN）。真实世界中的应用。
+                                                                                                                  ^~
+default.cpp:14:157: error: non-ASCII characters are not allowed outside of literals and identifiers
+使用深度学习，我们仍然是习得一个函数`f`，将输入`X`映射为输出`Y`，并使测试数据上的损失最小，就像我们之前那样。回忆一下，在 2.1 节监督学习中，我们的初始“问题陈述”：
+                                                                                                           ^~
+default.cpp:14:219: error: non-ASCII characters are not allowed outside of literals and identifiers
+使用深度学习，我们仍然是习得一个函数`f`，将输入`X`映射为输出`Y`，并使测试数据上的损失最小，就像我们之前那样。回忆一下，在 2.1 节监督学习中，我们的初始“问题陈述”：
+                                                                                                                                                      ^
+default.cpp:14:234: error: non-ASCII characters are not allowed outside of literals and identifiers
+使用深度学习，我们仍然是习得一个函数`f`，将输入`X`映射为输出`Y`，并使测试数据上的损失最小，就像我们之前那样。回忆一下，在 2.1 节监督学习中，我们的初始“问题陈述”：
+                                                                                                                                                               ^
+default.cpp:22:46: error: non-ASCII characters are not allowed outside of literals and identifiers
+真实世界很乱，所以有时`f`很复杂。在自然语言问题中，较大的词汇数量意味着大量特征。视觉问题设计大量的像素相关的视觉信息。玩游戏需要基于复杂场景做决策，也带有许多可能的未知。当我们处理的数据不是很复杂时，我们目前涉及的学习机制做的很好。但是，它们如何推广到像这样的场景，还不清楚。
+                               ^~
+default.cpp:22:118: error: non-ASCII characters are not allowed outside of literals and identifiers
+真实世界很乱，所以有时`f`很复杂。在自然语言问题中，较大的词汇数量意味着大量特征。视觉问题设计大量的像素相关的视觉信息。玩游戏需要基于复杂场景做决策，也带有许多可能的未知。当我们处理的数据不是很复杂时，我们目前涉及的学习机制做的很好。但是，它们如何推广到像这样的场景，还不清楚。
+                                                                               ^~
+default.cpp:22:175: error: non-ASCII characters are not allowed outside of literals and identifiers
+真实世界很乱，所以有时`f`很复杂。在自然语言问题中，较大的词汇数量意味着大量特征。视觉问题设计大量的像素相关的视觉信息。玩游戏需要基于复杂场景做决策，也带有许多可能的未知。当我们处理的数据不是很复杂时，我们目前涉及的学习机制做的很好。但是，它们如何推广到像这样的场景，还不清楚。
+                                                                                                                     ^~
+default.cpp:22:253: error: non-ASCII characters are not allowed outside of literals and identifiers
+真实世界很乱，所以有时`f`很复杂。在自然语言问题中，较大的词汇数量意味着大量特征。视觉问题设计大量的像素相关的视觉信息。玩游戏需要基于复杂场景做决策，也带有许多可能的未知。当我们处理的数据不是很复杂时，我们目前涉及的学习机制做的很好。但是，它们如何推广到像这样的场景，还不清楚。
+                                                                                                                                                                         ^~
+default.cpp:22:346: error: non-ASCII characters are not allowed outside of literals and identifiers
+真实世界很乱，所以有时`f`很复杂。在自然语言问题中，较大的词汇数量意味着大量特征。视觉问题设计大量的像素相关的视觉信息。玩游戏需要基于复杂场景做决策，也带有许多可能的未知。当我们处理的数据不是很复杂时，我们目前涉及的学习机制做的很好。但是，它们如何推广到像这样的场景，还不清楚。
+                                                                                                                                                                                                                                       ^~
+default.cpp:22:412: error: non-ASCII characters are not allowed outside of literals and identifiers
+真实世界很乱，所以有时`f`很复杂。在自然语言问题中，较大的词汇数量意味着大量特征。视觉问题设计大量的像素相关的视觉信息。玩游戏需要基于复杂场景做决策，也带有许多可能的未知。当我们处理的数据不是很复杂时，我们目前涉及的学习机制做的很好。但是，它们如何推广到像这样的场景，还不清楚。
+                                                                                                                                                                                                                                                                                   ^~
+default.cpp:24:76: error: non-ASCII characters are not allowed outside of literals and identifiers
+深度学习非常善于习得`f`，特别是在数据很复杂的场景中。实际上，人工神经网络也被成为通用函数近似器，因为它们能够学习任何函数，无论多么扭曲，都只需要一个隐藏层。
+                                                   ^~
+default.cpp:24:232: error: non-ASCII characters are not allowed outside of literals and identifiers
+深度学习非常善于习得`f`，特别是在数据很复杂的场景中。实际上，人工神经网络也被成为通用函数近似器，因为它们能够学习任何函数，无论多么扭曲，都只需要一个隐藏层。
+                                                                                                                              default.cpp:36:1: error: expected unqualified-id
+default.cpp:1:1: error: unknown type name 'pghoard'
+^
+default.cpp:39:61: error: unknown type name 'did'
+default.cpp:2:1: error: invalid '==' at end of declaration; did you mean '='?
+                                                            ^
+default.cpp:39:68: error: expected ';' after top level declarator
+default.cpp:2:1: error: invalid '==' at end of declaration; did you mean '='?
+                                                                   ^
+                                                                   ;
+default.cpp:42:61: error: unknown type name 'did'
+default.cpp:2:1: error: invalid '==' at end of declaration; did you mean '='?
+                                                            ^
+default.cpp:42:68: error: expected ';' after top level declarator
+default.cpp:2:1: error: invalid '==' at end of declaration; did you mean '='?
+                                                                   ^
+                                                                   ;
+default.cpp:45:1: error: expected unqualified-id
+default.cpp:30:1: error: expected unqualified-id
+^
+default.cpp:49:3: error: invalid preprocessing directive
+# Vietnamese translations for data package.
+  ^
+default.cpp:52:3: error: invalid preprocessing directive
+# Copyright (C) 2009 THE data'S COPYRIGHT HOLDER
+  ^
+default.cpp:55:3: error: invalid preprocessing directive
+# This file is distributed under the same license as the data package.
+  ^
+default.cpp:58:3: error: invalid preprocessing directive
+# Lê Quốc Tuấn <mr.lequoctuan@gmail.com>, 2009.
+  ^
+default.cpp:61:2: error: invalid preprocessing directive
+#: ../bus/ibus.desktop.in.h:1
+ ^
+default.cpp:64:2: error: invalid preprocessing directive
+#: ../bus/ibus.desktop.in.h:2
+ ^
+default.cpp:67:2: error: invalid preprocessing directive
+#, fuzzy
+ ^
+default.cpp:70:2: error: invalid preprocessing directive
+#: ../bus/ibus.desktop.in.h:3
+ ^
+default.cpp:73:2: error: invalid preprocessing directive
+#, fuzzy
+ ^
+default.cpp:76:2: error: invalid preprocessing directive
+#: ../ibus/_config.py.in:39
+ ^
+default.cpp:79:3: error: invalid preprocessing directive
+# 四、神经网络和深度学习
+  ^
+default.cpp:82:36: error: non-ASCII characters are not allowed outside of literals and identifiers
+> 深度神经网络的工作地点、原因和方式。从大脑中获取灵感。卷积神经网络（CNN）和循环神经网络（RNN）。真实世界中的应用。
+                        ^~
+default.cpp:82:54: error: non-ASCII characters are not allowed outside of literals and identifiers
+> 深度神经网络的工作地点、原因和方式。从大脑中获取灵感。卷积神经网络（CNN）和循环神经网络（RNN）。真实世界中的应用。
+                                    ^~
+fatal error: too many errors emitted, stopping now [-ferror-limit=]
+20 errors generated.![Screenshot_2025-08-03-02-53-06-51_78c88886f96893d4c28eff43fb8d2d30](https://github.com/user-attachments/assets/91b4a395-aeaf-4f07-8af5-32e0efeed288)
+![Screenshot_2025-08-03-11-35-19-40_08626e35eb99698b0717ca70323a2481](https://github.com/user-attachments/assets/22b63d75-ed70-4743-821b-936cb5e98ec5)
+![Screenshot_2025-08-03-11-35-27-26_08626e35eb99698b0717ca70323a2481](https://github.com/user-attachments/assets/afbd0576-2770-4c69-8d8d-f5ee48ed521a)
+![Screenshot_2025-08-03-11-35-32-79_08626e35eb99698b0717ca70323a2481](https://github.com/user-attachments/assets/0964ec58-4f28-4d58-ba2f-8017602900bc)
+![Screenshot_2025-08-03-11-35-40-62_08626e35eb99698b0717ca70323a2481](https://github.com/user-attachments/assets/55f36cf1-1a6f-4a5c-b599-746f4cda486e)
+![Screenshot_2025-08-03-11-35-47-70_08626e35eb99698b0717ca70323a2481](https://github.com/user-attachments/assets/34f794a3-72a0-44af-a386-f52d0d6b2a3b)
+![Screenshot_2025-08-03-11-36-01-36_40deb401b9ffe8e1df2f1cc5ba480b12](https://github.com/user-attachments/assets/1b1bea70-1946-4ee4-815f-dea73e73342b)
+![Screenshot_2025-08-03-11-36-08-12_40deb401b9ffe8e1df2f1cc5ba480b12](https://github.com/user-attachments/assets/fae09d97-eb24-425b-a3f4-6d75a9b30780)
+![Screenshot_2025-08-03-11-36-17-44_40deb401b9ffe8e1df2f1cc5ba480b12](https://github.com/user-attachments/assets/8d0db99e-7a31-496a-811e-d053dbd34b3e)
+
+
+https://github.com/user-attachments/assets/6e2c725a-28b8-443d-9625-30f6a972f0e3
+
+                             ^~
+default.cpp:26:37: error: non-ASCII characters are not allowed outside of literals and identifiers
+让我们看看图像分类的问题。我们选取一张图片作为输入，并输出一个分类（例如狗、猫、车）。
+                        ^~
+fatal error: too many errors emitted, stopping now [-ferror-limit=]
+20 errors generated.
+generated.AUTO_GENERATED_PLEASE_DONT_DELETE_IT-END-->
 
 贡献者列表，由 [contributors](https://github.com/jaywcjlove/github-action-contributors) 自动生成
 
