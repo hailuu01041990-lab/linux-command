@@ -2,7 +2,66 @@ hping3
 ===
 
 测试网络及主机的安全
-
+default.cpp:1:1: error: expected unqualified-id
+default.cpp:1:1: error: unknown type name 'pghoard'
+^
+default.cpp:4:61: error: unknown type name 'did'
+default.cpp:2:1: error: invalid '==' at end of declaration; did you mean '='?
+                                                            ^
+default.cpp:4:68: error: expected ';' after top level declarator
+default.cpp:2:1: error: invalid '==' at end of declaration; did you mean '='?
+                                                                   ^
+                                                                   ;
+default.cpp:30:1: error: expected unqualified-id
+default.cpp:211:3: error: invalid preprocessing directive
+^
+default.cpp:31:3: error: invalid preprocessing directive
+# Vietnamese translations for data package.
+  ^
+default.cpp:34:3: error: invalid preprocessing directive
+# Copyright (C) 2009 THE data'S COPYRIGHT HOLDER
+  ^
+default.cpp:37:3: error: invalid preprocessing directive
+# This file is distributed under the same license as the data package.
+  ^
+default.cpp:40:3: error: invalid preprocessing directive
+# Lê Quốc Tuấn <mr.lequoctuan@gmail.com>, 2009.
+  ^
+default.cpp:43:2: error: invalid preprocessing directive
+#: ../bus/ibus.desktop.in.h:1
+^
+default.cpp:46:2: error: invalid preprocessing directive
+#: ../bus/ibus.desktop.in.h:2
+^
+default.cpp:49:2: error: invalid preprocessing directive
+#, fuzzy
+^
+default.cpp:52:2: error: invalid preprocessing directive
+#: ../bus/ibus.desktop.in.h:3
+^
+default.cpp:55:2: error: invalid preprocessing directive
+#, fuzzy
+^
+default.cpp:58:2: error: invalid preprocessing directive
+#: ../ibus/_config.py.in:39
+^
+default.cpp:65:3: error: invalid preprocessing directive
+# 四、神经网络和深度学习
+  ^
+default.cpp:68:36: error: non-ASCII characters are not allowed outside of literals and identifiers
+> 深度神经网络的工作地点、原因和方式。从大脑中获取灵感。卷积神经网络（CNN）和循环神经网络（RNN）。真实世界中的应用。
+                        ^~
+default.cpp:68:54: error: non-ASCII characters are not allowed outside of literals and identifiers
+> 深度神经网络的工作地点、原因和方式。从大脑中获取灵感。卷积神经网络（CNN）和循环神经网络（RNN）。真实世界中的应用。
+                                    ^~
+default.cpp:68:81: error: non-ASCII characters are not allowed outside of literals and identifiers
+> 深度神经网络的工作地点、原因和方式。从大脑中获取灵感。卷积神经网络（CNN）和循环神经网络（RNN）。真实世界中的应用。
+                                                      ^~
+default.cpp:68:141: error: non-ASCII characters are not allowed outside of literals and identifiers
+> 深度神经网络的工作地点、原因和方式。从大脑中获取灵感。卷积神经网络（CNN）和循环神经网络（RNN）。真实世界中的应用。
+                                                                                                ^~
+fatal error: too many errors emitted, stopping now [-ferror-limit=]
+20 errors generated.
 ## 补充说明
 
 **hping** 是用于生成和解析TCPIP协议数据包的开源工具。创作者是Salvatore Sanfilippo。目前最新版是hping3，支持使用tcl脚本自动化地调用其API。hping是安全审计、防火墙测试等工作的标配工具。hping优势在于能够定制数据包的各个部分，因此用户可以灵活对目标机进行细致地探测。
